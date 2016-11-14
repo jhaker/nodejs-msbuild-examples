@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <version>1.0.0</version>
+    <authors>Jonathan Haker</authors>
+    <owners>Jonathan Haker</owners>
+    <copyright>Jonathan Haker 2016</copyright>
+
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.IdentityModel" targetFramework="net45" />
+    </frameworkAssemblies>
+    
+    <id>TeachAndShare.PrivacyPolicy</id>
+    <title>TeachAndShare PrivacyPolicy</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    
+    <description>Teach and Share privacy policy</description>
+    <language>en-US</language>
+    <tags>TeachAndShare</tags>
+  </metadata>
+</package>

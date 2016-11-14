@@ -1,0 +1,19 @@
+{
+  "name": "msbuild-examples",
+  "description" : "msbuild examples",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhaker/nodejs-msbuild-examples.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhaker/nodejs-msbuild-examples/issues"
+  },
+  "dependencies": {
+		"msbuild":"*"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "author": "jonathan haker",
+  "license": "MIT"
+}
